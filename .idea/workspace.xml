@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6abcc75d-a40f-48b2-8190-690b3fa3e420" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SASS file" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1fqjwCE8UmCbbAssn8uBZIpcTIn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.13.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projects\React JS\educon-online\src\Layout\login\tutor" />
+      <recent name="E:\Projects\React JS\educon-online\src\Layout\login\components" />
+      <recent name="E:\Projects\React JS\educon-online\src\images\general\icons" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projects\React JS\educon-online\client" />
+      <recent name="E:\Projects\React JS\educon-online\src\Layout\login\tutor\tutorCalendar" />
+      <recent name="E:\Projects\React JS\educon-online\src\Layout\landing\auxiliary" />
+      <recent name="E:\Projects\React JS\educon-online\src\Layout\general" />
+      <recent name="E:\Projects\React JS\educon-online\src\images\general" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="watchCourse.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Layout/login/containers/watchCourse/watchCourse.js" working-dir="$PROJECT_DIR$/src/Layout/login/containers/watchCourse">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.watchCourse.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6abcc75d-a40f-48b2-8190-690b3fa3e420" name="Default Changelist" comment="" />
+      <created>1596952752506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596952752506</updated>
+      <workItem from="1596952754119" duration="32803000" />
+      <workItem from="1597293933879" duration="14356000" />
+      <workItem from="1597420245993" duration="56198000" />
+      <workItem from="1597757210261" duration="18266000" />
+      <workItem from="1597836934675" duration="8981000" />
+      <workItem from="1597892955775" duration="102574000" />
+      <workItem from="1598544453554" duration="8342000" />
+      <workItem from="1598697971740" duration="17645000" />
+      <workItem from="1598760698534" duration="42121000" />
+      <workItem from="1598851119259" duration="26104000" />
+      <workItem from="1598938685345" duration="16032000" />
+      <workItem from="1599022463270" duration="1269000" />
+      <workItem from="1599310942728" duration="4393000" />
+      <workItem from="1599315360661" duration="7511000" />
+      <workItem from="1599373983719" duration="8785000" />
+      <workItem from="1599463645351" duration="8106000" />
+      <workItem from="1599486964930" duration="2430000" />
+      <workItem from="1599489471020" duration="8269000" />
+      <workItem from="1599502970617" duration="403000" />
+      <workItem from="1599546646980" duration="562000" />
+      <workItem from="1599550668350" duration="26695000" />
+      <workItem from="1599629133104" duration="3400000" />
+      <workItem from="1599713815943" duration="674000" />
+      <workItem from="1599809006909" duration="1222000" />
+      <workItem from="1600184065169" duration="975000" />
+      <workItem from="1600238588636" duration="3237000" />
+      <workItem from="1600257133636" duration="12425000" />
+      <workItem from="1600335698053" duration="342000" />
+      <workItem from="1600339711203" duration="77000" />
+      <workItem from="1600449032893" duration="17517000" />
+      <workItem from="1600774350683" duration="21243000" />
+      <workItem from="1600841764511" duration="27684000" />
+      <workItem from="1601042615774" duration="17000" />
+      <workItem from="1601104513327" duration="1777000" />
+      <workItem from="1601287275861" duration="10497000" />
+      <workItem from="1601368154094" duration="25210000" />
+      <workItem from="1601442920698" duration="82626000" />
+      <workItem from="1601805175646" duration="319000" />
+      <workItem from="1602163776701" duration="12000" />
+      <workItem from="1602436171850" duration="3250000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/some-projects" />
+      <path value="$PROJECT_DIR$/client" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="99" key="#Live_Templates" timestamp="1599478924673">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="99" key="#Live_Templates/0.0.1920.1040@0.0.1920.1040" timestamp="1599478924673" />
+    <state x="702" y="345" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599574321108">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="345" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599574321108" />
+    <state x="1178" y="347" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602440476169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1178" y="347" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602440476169" />
+    <state x="1043" y="402" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601303014968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1043" y="402" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601303014968" />
+    <state x="1030" y="354" key="FileChooserDialogImpl" timestamp="1602163787724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1030" y="354" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602163787724" />
+    <state width="1321" height="245" key="GridCell.Tab.0.bottom" timestamp="1601013678600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1321" height="245" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601013678600" />
+    <state width="1321" height="245" key="GridCell.Tab.0.center" timestamp="1601013678600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1321" height="245" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601013678600" />
+    <state width="1321" height="245" key="GridCell.Tab.0.left" timestamp="1601013678600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1321" height="245" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601013678600" />
+    <state width="1321" height="245" key="GridCell.Tab.0.right" timestamp="1601013678600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1321" height="245" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601013678600" />
+    <state x="981" y="294" key="IDE.errors.dialog" timestamp="1597576726926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="981" y="294" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597576726926" />
+    <state x="483" y="119" key="RollbackChangesDialog" timestamp="1597511237612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="483" y="119" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597511237612" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1602445451335">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602445451335" />
+    <state x="713" y="175" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600798794370">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="713" y="175" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600798794370" />
+    <state x="1138" y="718" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601372315469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1138" y="718" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601372315469" />
+    <state x="891" y="393" width="672" height="678" key="search.everywhere.popup" timestamp="1600667775633">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="891" y="393" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600667775633" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/Layout/login/tutor/tutorCalendar/event-utils.js</url>
+          <line>9</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="educon-online" type="b2602c69:ProjectViewProjectNode" />
+        <item name="educon-online" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
